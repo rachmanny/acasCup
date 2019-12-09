@@ -1,3 +1,9 @@
-#groups tr {
-	border: 20px solid black;
+#groups {
+
+}
+#groups th{
+	border: 2px solid black;
+}
+#groups td{
+	border: 1px solid black;
 }
